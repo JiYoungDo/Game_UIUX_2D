@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 74581cd87f1a39f4a8cb3e2630c7592e
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: ef4e7b92d5d68c04198429e78c6d8928
+  - enabled: 1
+    path: Assets/Scenes/BeginnerScene.unity
+    guid: c0d4b542dcac3a8439562976981ec1c0
+  - enabled: 1
+    path: Assets/Scenes/Apprentice Scene.unity
+    guid: 4111ed52e1f53e046a72034a1e787ee0
+  - enabled: 1
+    path: Assets/Scenes/Master Scene.unity
+    guid: 746c5208e034df246916c70705f5120e
+  - enabled: 1
+    path: Assets/Scenes/Apprentice_stage1.unity
+    guid: d0bca68ceccd874469b5a23e0a676f0c
+  - enabled: 1
+    path: Assets/Scenes/Beginner_stage1.unity
+    guid: 32c94a14ccc9ad94fa5f23b12e4c876f
+  - enabled: 1
+    path: Assets/Scenes/Master_stage1.unity
+    guid: ef618a6855134ab438ad870c363238a7
+  - enabled: 1
+    path: Assets/Scenes/GameRule.unity
+    guid: a62318ecaa6031e41a4c964b2f525a38
+  - enabled: 1
+    path: Assets/Scenes/GameClear.unity
+    guid: de6823b713a4533408e70d0465462978
+  - enabled: 1
+    path: Assets/Scenes/GameFail.unity
+    guid: 5acd826685ffa004289f1b80a63713b9
+  m_configObjects: {}
